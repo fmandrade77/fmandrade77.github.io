@@ -25,24 +25,20 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Ponta Grossa, BR"
   employer         : "State University of Ponta Grossa"
   uri              : # URL
   email            : "fmandrade@uepg.br" 
 
   # Academic websites
-  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=X8OzD9EAAAAJ&hl=en-UK"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5383-6168"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Fabiano-Andrade-2"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7005816097"
   zotero           : # URL
 
@@ -57,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
